@@ -1,0 +1,21 @@
+
+<div id="div-pelis"></div>
+<div id="div-juegos"></div>
+<div id="div-musica"></div>
+<div id="tabla-pelis">
+    <table>
+        <thead>Mejores pelis</thead>
+        {{#each datosPelis}}
+        <tr>
+            <td>
+                {{this.name}}
+            </td>
+            <td>{{this.id}}</td>
+
+        </tr>
+        {{/each}}
+    </table>
+</div>
+<div>pelis mas esperadas</div>
+<div>juegos mas esperados</div>
+

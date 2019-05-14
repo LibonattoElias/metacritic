@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Detective Pikachu",
+    "resena": "Zenit",
+    "img": "./images/detectivepikachu.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 2,
+    "name": "Avengers Endgame",
+    "resena": "Zenit",
+    "img": "./images/avengersendgame.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  },
+
+  {
+    "id": 3,
+    "name": "La Llorona",
+    "resena": "Zenit",
+    "img": "./images/mel.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 4,
+    "name": "Shazam",
+    "resena": "Zenit",
+    "img": "./images/mel.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  },
+
+  {
+    "id": 5,
+    "name": "Dumbo",
+    "resena": "Zenit",
+    "img": "./images/mel.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 6,
+    "name": "After",
+    "resena": "Zenit",
+    "img": "./images/mel.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  }
+]

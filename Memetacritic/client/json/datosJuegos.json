@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Sekiro: Shadows Die Twice",
+    "resena": "Zenit",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 2,
+    "name": "Celeste",
+    "resena": "Zenit",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+ {
+    "id": 3,
+    "name": "Mortal Kombat 11",
+    "resena": "Zenit",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 4,
+    "name": "Super Mario Bros",
+    "resena": "Zenit",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  }
+]

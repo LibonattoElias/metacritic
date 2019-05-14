@@ -1,0 +1,118 @@
+#barra-home {
+    background-color: black;
+    color: darkblue;
+}
+
+#div-contenedor{
+    align-content: center;
+}
+#search{
+    text-align: center;
+    display: grid;
+    padding-right: 2px;
+}
+
+#submit {
+    display: inline;
+}
+.texto-ultimaspelis{
+    text-justify:distribute;
+    color: palegreen;
+}
+#div-pelis {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 15px 15px 150px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+
+
+}
+#div-pagpelis {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 15px 15px 150px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.fotos-pelis{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 15px 15px 60px 15px; 
+
+}
+#div-juegos {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 15px 15px 150px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.resena{
+    position: relative;
+    bottom: -250px;  
+}
+
+.fotos-juegos {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 15px 15px 60px 15px;
+}
+#div-musica {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 15px 15px 150px 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.fotos-musica {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 15px 15px 60px 15px;
+}
+

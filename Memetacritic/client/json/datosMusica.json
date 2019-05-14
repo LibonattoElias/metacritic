@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Jamila Woods",
+    "resena": "Descripcion",
+    "img": "./images/jamilawoods.jpg",
+    "puntuacion": "50",
+    "resumen": ""
+  },
+
+  {
+    "id": 2,
+    "name": "",
+    "cancion": "cancion",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  },
+
+  {
+    "id": 3,
+    "name": "La Llorona",
+    "resena": "Descripcion",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 4,
+    "name": "Shazam",
+    "resena": "Descripcion",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  },
+
+  {
+    "id": 5,
+    "name": "Dumbo",
+    "resena": "Descripcion",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 6,
+    "name": "After",
+    "resena": "Descripcion",
+    "img": "./images/wilmar.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  }
+]

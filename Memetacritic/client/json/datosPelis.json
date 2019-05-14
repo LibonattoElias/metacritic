@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Detective Pikachu",
+    "resena": "Descripcion",
+    "img": "./images/detectivepikachu.jpg",
+    "puntuacion": "50",
+    "resumen": "mundo pokemonajs"
+  },
+
+  {
+    "id": 2,
+    "name": "Avengers Endgame",
+    "resena": "Descripcion",
+    "img": "./images/avengersendgame.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  },
+
+  {
+    "id": 3,
+    "name": "La Llorona",
+    "resena": "Descripcion",
+    "img": "./images/lallorona.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 4,
+    "name": "Shazam",
+    "resena": "Descripcion",
+    "img": "./images/shazam.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  },
+
+  {
+    "id": 5,
+    "name": "Dumbo",
+    "resena": "Descripcion",
+    "img": "./images/dumbo.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+  },
+
+  {
+    "id": 6,
+    "name": "Capitana Marvel",
+    "resena": "Descripcion",
+    "img": "./images/capitanamarvel.jpg",
+    "puntuacion": "50",
+    "resumen": "sajkkjadsjk"
+
+  }
+]
